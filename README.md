@@ -7,7 +7,7 @@ InsightPredict is a powerful end-to-end Machine Learning Data Analyzer that allo
 Designed for students, researchers, and data professionals, this tool automates the entire ML workflow — from data cleaning to model selection, visualization, and performance reporting.
 
 ### **`📝 Key Features `**
-### ** ✅ Automated ML Workflow **
+### ✅ Automated ML Workflow 
 
 Handles data preprocessing, missing values, encoding, scaling
 
@@ -17,7 +17,7 @@ Runs multiple ML algorithms automatically
 
 Performs train-test split, cross-validation, and metric reporting
 
-### ** ✅ Supports All Major ML Tasks **
+### ✅ Supports All Major ML Tasks 
 
 Classification (Logistic Regression, Random Forest, XGBoost, SVM, etc.)
 
@@ -27,13 +27,13 @@ Dimensionality Reduction (PCA)
 
 Model Explainability (SHAP values)
 
-### ** ✅ Model Comparison Dashboard **
+### ✅ Model Comparison Dashboard 
 
 Visual comparison of accuracy, F1-score, RMSE, ROC curves, feature importance
 
 Automatically recommends the best model
 
-### ** ✅ Interactive Interface **
+### ✅ Interactive Interface 
 
 Upload any CSV dataset
 
@@ -41,7 +41,7 @@ Click to generate ML insights
 
 View metrics, graphs, and downloadable reports
 
-### ** ✅ Research-Oriented **
+### ✅ Research-Oriented 
 
 Suitable for academic papers and real-world datasets
 
