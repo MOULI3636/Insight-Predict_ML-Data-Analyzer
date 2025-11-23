@@ -1,5 +1,4 @@
-### **⚡InsightPredict: ML Data Analyzer**
-### **`🔥🔥🔥 INSIGHT PREDICT: ML DATA ANALYZER 🔥🔥🔥`**
+### **`🔥 INSIGHT PREDICT: ML DATA ANALYZER 🔥`**
 
 
 An Automated Machine Learning Pipeline for Data Upload, Model Training, Evaluation & Explainability
@@ -7,8 +6,8 @@ An Automated Machine Learning Pipeline for Data Upload, Model Training, Evaluati
 InsightPredict is a powerful end-to-end Machine Learning Data Analyzer that allows users to upload datasets and instantly generate insights using classification, regression, PCA, and SHAP-based explainability.
 Designed for students, researchers, and data professionals, this tool automates the entire ML workflow — from data cleaning to model selection, visualization, and performance reporting.
 
-🔥 **Key Features**
-✅ __Automated ML Workflow__
+### **`📝 Key Features `**
+### ** ✅ Automated ML Workflow **
 
 Handles data preprocessing, missing values, encoding, scaling
 
@@ -18,7 +17,7 @@ Runs multiple ML algorithms automatically
 
 Performs train-test split, cross-validation, and metric reporting
 
-✅ ##Supports All Major ML Tasks
+### ** ✅ Supports All Major ML Tasks **
 
 Classification (Logistic Regression, Random Forest, XGBoost, SVM, etc.)
 
@@ -28,13 +27,13 @@ Dimensionality Reduction (PCA)
 
 Model Explainability (SHAP values)
 
-✅ ##Model Comparison Dashboard
+### ** ✅ Model Comparison Dashboard **
 
 Visual comparison of accuracy, F1-score, RMSE, ROC curves, feature importance
 
 Automatically recommends the best model
 
-✅ ##Interactive Interface
+### ** ✅ Interactive Interface **
 
 Upload any CSV dataset
 
@@ -42,13 +41,13 @@ Click to generate ML insights
 
 View metrics, graphs, and downloadable reports
 
-✅ ##Research-Oriented
+### ** ✅ Research-Oriented **
 
 Suitable for academic papers and real-world datasets
 
 Provides clear insights, ready-to-use visuals, and model interpretations
 
-🧠 #Tech Stack
+### **`📌 TECH STACK`**
 
 Python
 
@@ -62,7 +61,8 @@ SHAP
 
 Jupyter / Streamlit / Flask (based on your implementation)
 
-📊 #Workflow Architecture
+### **`🔥 WORKFLOW ARCHITECTURE 🔥`**
+
 flowchart LR
 A[Upload Dataset] --> B[Data Cleaning & Preprocessing]
 B --> C[EDA & Visualization]
@@ -73,7 +73,8 @@ F --> G[Model Comparison Dashboard]
 G --> H[SHAP Explainability & PCA Visualization]
 H --> I[Final Report Output]
 
-📝 #Outputs Generated
+
+### **`📝 OUTPUT GENERATED`**
 
 Cleaned dataset
 
@@ -93,7 +94,7 @@ Recommended best model
 
 Final downloadable report
 
-📌 #Future Enhancements
+### **`📌 FUTURE ENHANCEMENT`**
 
 Add AutoML hyperparameter tuning (Optuna)
 
