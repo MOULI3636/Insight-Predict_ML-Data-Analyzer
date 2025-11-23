@@ -1,12 +1,12 @@
-🚀 #InsightPredict: ML Data Analyzer
+🚀 **InsightPredict: ML Data Analyzer**
 
 An Automated Machine Learning Pipeline for Data Upload, Model Training, Evaluation & Explainability
 
 InsightPredict is a powerful end-to-end Machine Learning Data Analyzer that allows users to upload datasets and instantly generate insights using classification, regression, PCA, and SHAP-based explainability.
 Designed for students, researchers, and data professionals, this tool automates the entire ML workflow — from data cleaning to model selection, visualization, and performance reporting.
 
-🔥 #Key Features
-✅ ##Automated ML Workflow
+🔥 **Key Features**
+✅ __Automated ML Workflow__
 
 Handles data preprocessing, missing values, encoding, scaling
 
