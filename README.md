@@ -1,4 +1,6 @@
-### **⚡ 🚀 InsightPredict: ML Data Analyzer**
+### **⚡InsightPredict: ML Data Analyzer**
+### **`🔥🔥🔥 INSIGHT PREDICT: ML DATA ANALYZER 🔥🔥🔥`**
+
 
 An Automated Machine Learning Pipeline for Data Upload, Model Training, Evaluation & Explainability
 
